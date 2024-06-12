@@ -1,4 +1,4 @@
-# Project_Satillite
+# Project_Satellite
 
 ## Project Description
 
